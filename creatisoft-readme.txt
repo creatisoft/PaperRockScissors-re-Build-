@@ -10,5 +10,5 @@ Twitter / X >> @creatisoft
 itch.io page >> https://creatisoft.itch.io/paper-rock-scissors-rebuild
 ====================================
 
-![Screenshot](rpsicon_new.png)
+![Screenshot](https://www.creatisoft.com/wp-content/uploads/2024/02/rpsicon_new.png)
 
